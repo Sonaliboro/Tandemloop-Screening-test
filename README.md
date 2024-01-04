@@ -1,7 +1,7 @@
 # Tandemloop-Screening-test
 Hi everyone, Sonali here!
 I would like thank Tandemloop for giving me this opportunity to participate in the First screening test for the adequate position. I am very much delighted and happy 
-that I got a chance to showcase my skills. As mentioned in the assignment task I had accurately created the sections of web pages and had converted them into the form of a responsive mobile layout along with I have also presented the mobile Mockup for better differntiation and better understanding. 
+that I got a chance to showcase my skills. As mentioned in the assignment task I had accurately created the sections of web pages and had converted them into the form of a responsive mobile layout along with I have also presented the mobile Mockup for better differntiation and better understanding. The primary tool used is Figma, Typography- Manrope, Iconography- Open source library and self made, and used the respective hues displayed on the sections.
 I hope I meet your requirements and I am looking forward to hearing back you!
 Thankyou, Regards
 
